@@ -6,7 +6,9 @@
   "version": "0.0.1",
   "description": "The Adobe Experience Platform Web SDK allows for streaming data into the platform, syncing identities, personalizing content, and more.",
   "author": {
-    "name": "Adobe"
+    "name": "Adobe Systems",
+    "url": "http://adobe.com",
+    "email": "reactor@adobe.com"
   },
   "viewBasePath": "dist/view/",
   "configuration": {
